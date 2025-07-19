@@ -1,0 +1,14 @@
+# Ignore Visual Studio settings
+.vs/
+*.user
+*.suo
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore database/log files
+*.db
+*.log
+*.pdb
+*.cache
